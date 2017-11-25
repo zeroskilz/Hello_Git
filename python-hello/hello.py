@@ -2,6 +2,7 @@
 
 import time
 
+
 print("HELLO GITHUB \n")
 print("Enter a Control Flow Command\n")
 print("Usage if, for, while")
@@ -67,6 +68,3 @@ def hello_iter():
 		time.sleep(1) 
 
 
-
-	
-main_git(read_input)
